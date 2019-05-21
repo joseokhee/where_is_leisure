@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cs.inhatc.khac.khac_where_is_leisure.SY_CheckableLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/imgBtnWhat"
+            android:layout_width="10dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:onClick="Popup"
+            android:scaleType="fitEnd" />
+
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:gravity="center"
+            android:text="관광지명"
+            android:textSize="20sp" />
+
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/chbtour"
+            android:focusable="false"
+            android:clickable="false"
+            android:layout_weight="1" />
+
+</LinearLayout>
+
+</cs.inhatc.khac.khac_where_is_leisure.SY_CheckableLinearLayout>
