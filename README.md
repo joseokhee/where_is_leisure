@@ -9,15 +9,14 @@
 # 프로젝트 기능
   1. 관광지 정보 제공
     관광객이 가고싶은 관광지를 선택할 수 있도록 다양한 관광지의 정보를 제공해준다.
-    ![image](https://user-images.githubusercontent.com/33644885/103054443-51f48380-45dd-11eb-927a-cb81f097c206.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/33644885/103055456-a5ff6800-45dd-11eb-9f81-a90332ad0deb.png"></img></p>
   2. 자동 동선 설정
     가고자 하는 관광지, 숙소를 선택 시 자동으로 최적의 동선을 설정해주어 편리성을 제공한다.
-    ![image](https://user-images.githubusercontent.com/33644885/103055456-a5ff6800-45dd-11eb-9f81-a90332ad0deb.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/33644885/103055456-a5ff6800-45dd-11eb-9f81-a90332ad0deb.png"></img></p>
 
   3. 동선 별 리뷰 제공
     관광객이 안내받은 동선에 따라 리뷰를 제공하여 다른 관광객의 여행지 선정에 도움을 준다.
-    ![image](https://user-images.githubusercontent.com/33644885/103055070-80725e80-45dd-11eb-9318-ecf1cd5cb988.png)
-
+<p align="center"><img src="https://user-images.githubusercontent.com/33644885/103055070-80725e80-45dd-11eb-9318-ecf1cd5cb988.png"></img></p>
 
 -------------------------------------------
 # 마치며
